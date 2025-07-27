@@ -1,5 +1,5 @@
 {
-    "name": "ferdiunal/nova-editable-field",
+    "name": "castimize/nova-editable-field",
     "description": "A Laravel Nova package to make fields editable.",
     "authors": [
         {
@@ -55,6 +55,6 @@
     "config": {
         "sort-packages": true
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
